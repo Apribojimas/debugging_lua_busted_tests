@@ -36,3 +36,7 @@ If failed look at "Install script"
   - Working path: <test source directory>
   - Command line: <test_spec.lua>
   
+## Test preparation
+Add to test:
+  require 'preload'
+  require 'busted.runner'({ standalone = true, output = 'gtest' })
