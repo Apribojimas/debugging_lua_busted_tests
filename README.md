@@ -40,7 +40,7 @@ If failed look at "Install script..."
 ## Test preparation
 Add to test:
   ```
-  require 'preload'
+  require 'preload_busted'
   require 'busted.runner'({ standalone = true, output = 'gtest' })
   ```
 'preload.lua' can be found in repository
