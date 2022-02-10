@@ -17,7 +17,7 @@ If failed look at "Install script..."
 Installing [instruction](https://exercism.org/docs/tracks/lua/installation).
 If failed look at "Install script..."
 
-## Install script Lua, LuaRocks, Busted, ...
+## Install script for Lua, LuaRocks, Busted, ...
 - Download Lua5.4 & LuaRocks to one directory:
   - [LUA 5.4.2](https://sourceforge.net/projects/luabinaries/files/5.4.2/Tools%20Executables/lua-5.4.2_Win32_bin.zip/download)
   - [LUA lib for MSVC v16](https://sourceforge.net/projects/luabinaries/files/5.4.2/Windows%20Libraries/Dynamic/lua-5.4.2_Win32_dll16_lib.zip/download)
