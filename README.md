@@ -9,12 +9,12 @@ Computer enviroment:
 
 ## Install LuaRocks
 It is neccessary for installing Lua Busted testing framework
-Download LuaRocks and [install according instruction](https://github.com/luarocks/luarocks/wiki/Installation-instructions-for-Windows)
-Using [LuaRocks to install packages in the current directory](https://leafo.net/guides/customizing-the-luarocks-tree.html)
+Download LuaRocks and [install according instruction](https://github.com/luarocks/luarocks/wiki/Installation-instructions-for-Windows).
+Using [LuaRocks to install packages in the current directory](https://leafo.net/guides/customizing-the-luarocks-tree.html).
 If failed look at "Install script..."
 
 ## Install Busted
-Installing [instruction](https://exercism.org/docs/tracks/lua/installation)
+Installing [instruction](https://exercism.org/docs/tracks/lua/installation).
 If failed look at "Install script..."
 
 ## Install script Lua, LuaRocks, Busted, ...
