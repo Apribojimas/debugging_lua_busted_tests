@@ -54,4 +54,5 @@ Many things can go wrong:
   - Yours Visual Studio is not 'Microsoft Visual Studio Professional 2019 (Version 16.11.10)'. For different version need different builds of LuaRocks
   - Lua54 already year old, but many Lua modules still doesn't support it and LuaRocks refuse install it. Without any warnings. For example: 'moonscript' installed development  version
   - Guides, instructions sometimes missing important piece of information
+  - Sometimes BabeLua just don't works
   - ...
