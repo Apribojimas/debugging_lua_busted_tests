@@ -40,7 +40,7 @@ rmdir /s /q c:\lua\lib\include
 @rem Install LuaRocks
 mkdir c:\lua\temp
 @rem LuaRocks downloaded "https://luarocks.github.io/luarocks/releases/luarocks-3.8.0-win32.zip"
-tar -zxf c:\temp\lua_install\luarocks-3.8.0-win32.zip --strip-components=1 -C c:\lua\temp
+tar -zxf luarocks-3.8.0-win32.zip --strip-components=1 -C c:\lua\temp
 
 mkdir c:\lua\luarocks
 pushd c:\lua\temp
